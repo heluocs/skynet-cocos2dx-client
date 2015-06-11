@@ -1,0 +1,4 @@
+enum ModuleID
+{
+	MODULE_LOGIN		= 0x0001;	
+}
